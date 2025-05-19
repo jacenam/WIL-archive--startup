@@ -1,7 +1,7 @@
 # WIL-archive--startup
 > _No silver bullets. Just consistent best practices._
 
-👋🏻 Product Manager로 커리어를 시작했습니다. 현재는 스타트업 [닥프렌즈](https://doctalk.co.kr/)에서 헬스케어 미들웨어 SaaS 제품을 만들며 프로덕트 총괄로 일하고 있습니다.
+👋🏻 Product Manager로 커리어를 시작했습니다. 현재는 스타트업 [닥프렌즈](https://doctalk.co.kr/)에서 헬스케어 미들웨어 SaaS를 만들며 프로덕트 총괄로 기여하고 있습니다.
 
 스타트업에는 만능 해결책이 없다는 걸 더욱 실감하는 요즘입니다. 불확실성을 하나씩 해결해나가는 과정에서, 시행착오를 거치며 매 순간 최선의 선택을 고민하는 과정을 기록하고 있습니다.
 
@@ -24,6 +24,7 @@
 
 - [Focusing on What Matters Most (무엇이 중헌디)]()
     - [Bowling Alley Strategy (볼링핀 전략)]()
+    - [Growth Flywheel (지속성장 구조)]()
     - [NSM & OMTM (북극성 지표)]()
 - [Great Products Don't Sell Themselves (초기 세일즈 전략)]()
 - [Talent Acquisition (핵심 팀원 채용)]()
