@@ -9,27 +9,27 @@
 
 ## Road to PMF
 
-- [Choosing the Right Market (시장 선정)]()
-- [Defining Problems with Business Impact (문제 정의)]()
-- [Jobs-to-be-Done: Know Your Users (JTBD)]()
-    - [Customer Development (고객 개발)]()
-    - [UX Research (정성 리서치)]()
-- [Product Development (프로덕트 개발)]()
-    - [Finding the Right It (아이디어 검증)]()
-    - [Delighting a Few (극초기 지지자)]()
-- [How to Measure PMF (시장 제품 적합성)]()
-    - [Data Operation Framework (데이터 관리 체계)]()
+- [Choosing the Right Market (시장 선정)](https://github.com/jacenam/WIL-archive--startup/blob/main/road-to-pmf/choosing-the-right-market.md)
+- [Defining Problems with Business Impact (문제 정의)](https://github.com/jacenam/WIL-archive--startup/blob/main/road-to-pmf/defining-problems-with-business-impact.md)
+- [Jobs-to-be-Done: Know Your Users (JTBD)](https://github.com/jacenam/WIL-archive--startup/blob/main/road-to-pmf/jtbd-know-your-users.md)
+    - [Customer Development (고객 개발)](https://github.com/jacenam/WIL-archive--startup/blob/main/road-to-pmf/customer-development.md)
+    - [UX Research (정성 리서치)](https://github.com/jacenam/WIL-archive--startup/blob/main/road-to-pmf/ux-research.md)
+- [Product Development (프로덕트 개발)](https://github.com/jacenam/WIL-archive--startup/blob/main/road-to-pmf/product-development.md)
+    - [Finding the Right It (아이디어 검증)](https://github.com/jacenam/WIL-archive--startup/blob/main/road-to-pmf/finding-the-right-it.md)
+    - [Delighting a Few (극초기 지지자)](https://github.com/jacenam/WIL-archive--startup/blob/main/road-to-pmf/delighting-a-few.md)
+- [How to Measure PMF (시장 제품 적합성)](https://github.com/jacenam/WIL-archive--startup/blob/main/road-to-pmf/how-to-measure-pmf.md)
+    - [Data Operation Framework (데이터 관리 체계)](https://github.com/jacenam/WIL-archive--startup/blob/main/road-to-pmf/data-operation-framework.md)
 
 ## Business Ready
 
-- [Focusing on What Matters Most (무엇이 중헌디)]()
-    - [Bowling Alley Strategy (볼링핀 전략)]()
-    - [Growth Flywheel (지속성장 구조)]()
-    - [NSM & OMTM (북극성 지표)]()
-- [Great Products Don't Sell Themselves (초기 세일즈 전략)]()
-- [Talent Acquisition (핵심 팀원 채용)]()
+- [Focusing on What Matters Most (무엇이 중헌디)](https://github.com/jacenam/WIL-archive--startup/blob/main/business-ready/focusing-on-what-matters-most.md)
+    - [Bowling Alley Strategy (볼링핀 전략)](https://github.com/jacenam/WIL-archive--startup/blob/main/funding/pitchdeck-best-practices.md)
+    - [Growth Flywheel (지속성장 구조)](https://github.com/jacenam/WIL-archive--startup/blob/main/business-ready/growth-flywheel.md)
+    - [NSM & OMTM (북극성 지표)](https://github.com/jacenam/WIL-archive--startup/blob/main/business-ready/nsm-omtm.md)
+- [Great Products Don't Sell Themselves (초기 세일즈 전략)](https://github.com/jacenam/WIL-archive--startup/blob/main/business-ready/great-products-don't-sell-themselves.md)
+- [Talent Acquisition (핵심 팀원 채용)](https://github.com/jacenam/WIL-archive--startup/blob/main/business-ready/talent-acquisition.md)
 
 ## Funding
 
-- [Pitchdeck Best Practices (피치덱)]()
-- [Compelling One Pager (원 페이저)]()
+- [Pitchdeck Best Practices (피치덱)](https://github.com/jacenam/WIL-archive--startup/blob/main/funding/pitchdeck-best-practices.md)
+- [Compelling One Pager (원 페이저)](https://github.com/jacenam/WIL-archive--startup/blob/main/funding/compelling-one-pager.md)
