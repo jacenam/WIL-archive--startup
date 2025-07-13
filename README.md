@@ -11,7 +11,7 @@
 
 ## Road to PMF
 
-- [What We Changed: Streamlining & Pivoting (선택과 집중 & 피벗)]() 
+- [What We Changed: Streamlining & Pivoting (선택과 집중 & 피벗)](https://github.com/jacenam/WIL-archive--startup/blob/main/road-to-pmf/what-we-changed.md) 
 - [Defining Problems with Business Impact (문제 정의)](https://github.com/jacenam/WIL-archive--startup/blob/main/road-to-pmf/defining-problems-with-business-impact.md)
     - [Choosing the Right Market (시장 선정)](https://github.com/jacenam/WIL-archive--startup/blob/main/road-to-pmf/choosing-the-right-market.md)
 - [Jobs-to-be-Done: Know Your Users (JTBD)](https://github.com/jacenam/WIL-archive--startup/blob/main/road-to-pmf/jtbd-know-your-users.md)
